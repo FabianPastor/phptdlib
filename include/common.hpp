@@ -1,3 +1,4 @@
+#include <stdexcept>
 #include <phpcpp.h>
 
 Php::Value getPhpFunctionArgument(Php::Parameters &params, int parameterIndex);

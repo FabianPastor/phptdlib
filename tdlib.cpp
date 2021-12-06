@@ -1,5 +1,6 @@
 #include <iostream>
 
+#include <stdexcept>
 #include <phpcpp.h>
 
 #include <td/telegram/tdjson_export.h>

@@ -1,6 +1,7 @@
 #ifndef TD_JSON_CLIENT_FUNC_H
 #define TD_JSON_CLIENT_FUNC_H
 
+#include <stdexcept>
 #include <phpcpp.h>
 
 Php::Value td_json_client_func_create();

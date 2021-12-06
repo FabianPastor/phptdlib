@@ -2,6 +2,7 @@
 #include <chrono>
 #include <thread>
 
+#include <stdexcept>
 #include <phpcpp.h>
 
 #include "JsonClient.hpp"

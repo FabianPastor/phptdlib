@@ -1,5 +1,6 @@
 #include "catch.hpp"
 
+#include <stdexcept>
 #include <phpcpp.h>
 #include "../../include/TDApi/TDLibParameters.hpp"
 
